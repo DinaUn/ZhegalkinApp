@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|c:\\users\\koshu\\desktop\\36371-36372-36373\\zhegalkinapp\\zhegalkinapp\\polynomialformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|solutionrelative:zhegalkinapp\\polynomialformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\zhegalkinapp\\zhegalkinsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|solutionrelative:zhegalkinapp\\zhegalkinsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\zhegalkinapp\\truthtablebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|solutionrelative:zhegalkinapp\\truthtablebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\zhegalkinapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|solutionrelative:zhegalkinapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\zhegalkinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|solutionrelative:zhegalkinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\zhegalkinapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A44F96CB-CC75-4D23-908A-D4D212054C26}|ZhegalkinApp\\ZhegalkinApp.csproj|solutionrelative:zhegalkinapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\Program.cs",
+              "RelativeDocumentMoniker": "ZhegalkinApp\\Program.cs",
+              "ToolTip": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\Program.cs",
+              "RelativeToolTip": "ZhegalkinApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:34:26.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "ZhegalkinApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\MainForm.cs",
+              "RelativeToolTip": "ZhegalkinApp\\MainForm.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAqwBIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:31:23.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolynomialFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\PolynomialFormatter.cs",
+              "RelativeDocumentMoniker": "ZhegalkinApp\\PolynomialFormatter.cs",
+              "ToolTip": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\PolynomialFormatter.cs",
+              "RelativeToolTip": "ZhegalkinApp\\PolynomialFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:29:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZhegalkinSolver.cs",
+              "DocumentMoniker": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\ZhegalkinSolver.cs",
+              "RelativeDocumentMoniker": "ZhegalkinApp\\ZhegalkinSolver.cs",
+              "ToolTip": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\ZhegalkinSolver.cs",
+              "RelativeToolTip": "ZhegalkinApp\\ZhegalkinSolver.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:28:55.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TruthTableBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\TruthTableBuilder.cs",
+              "RelativeDocumentMoniker": "ZhegalkinApp\\TruthTableBuilder.cs",
+              "ToolTip": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\TruthTableBuilder.cs",
+              "RelativeToolTip": "ZhegalkinApp\\TruthTableBuilder.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:28:42.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\koshu\\Desktop\\36371-36372-36373\\ZhegalkinApp\\ZhegalkinApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "ZhegalkinApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\koshu\\source\\repos\\ZhegalkinApp\\ZhegalkinApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\ZhegalkinApp\\ZhegalkinApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:27:49.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
